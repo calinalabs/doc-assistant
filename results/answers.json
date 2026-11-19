@@ -1,0 +1,726 @@
+[
+  {
+    "q": "What is the escape of water excess under the Harbourline commercial property policy?",
+    "answer": "The wording gives the escape of water excess as £1,000 for each and every claim [S1]. A newer insurer email says this rises to £2,500 from 1 January 2027 for new and renewing policies, and policies incepting before that date keep £1,000 until their next renewal [S3].\n\n- **Check the inception date before quoting the figure.** The £2,500 applies only to policies incepting on or after 1 January 2027 and to renewals from that date [S3].\n- **Unoccupancy:** the excess for any claim is doubled while the building is unoccupied [S1]. The documents don't say whether this doubling applies to the new £2,500 figure.\n- **Claims deadline:** the insured must notify any claim within 14 days, and prompt notification is a condition precedent to liability [S6]. If a building becomes unoccupied, the insured must tell the insurer within 7 days [S6].",
+    "cited": [
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 3",
+      "Insurer emails/2026-09-18 Harbourline - escape of water excess change.eml | email",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 5"
+    ],
+    "ms": 3204,
+    "usage": {
+      "input": 1793,
+      "output": 627
+    },
+    "correct": true,
+    "judge": "The answer gives the same key facts as the reference: £1,000 per claim under the current wording, rising to £2,500 for policies incepting or renewing from 1 January 2027. The extra points on unoccupancy and claim notification do not contradict the reference, and the answer flags that the documents are silent on whether the doubling applies to the new figure.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Is Harbourline changing the escape of water excess?",
+    "answer": "Yes. From 1 January 2027, Harbourline's escape of water excess on all new and renewing commercial property policies will rise from £1,000 to £2,500 [S1]. The current wording still shows £1,000 for each and every claim [S2].\n\n- Policies incepting before 1 January 2027 keep the £1,000 excess until their next renewal [S1].\n- The 18 September 2026 insurer email is the most recent source on this figure, so it takes precedence over the £1,000 in the wording [S1][S2].\n- The documents don't say whether the wording itself will be reissued with the new figure.",
+    "cited": [
+      "Insurer emails/2026-09-18 Harbourline - escape of water excess change.eml | email",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 3"
+    ],
+    "ms": 3157,
+    "usage": {
+      "input": 1715,
+      "output": 576
+    },
+    "correct": true,
+    "judge": "The assistant's answer matches the reference on the key facts: the change takes effect on 1 January 2027, the excess rises from £1,000 to £2,500, it applies to new and renewing policies, and policies incepting earlier keep £1,000 until renewal. The extra details (commercial property, the 18 September 2026 email, the wording not yet reissued) don't contradict the reference. \"Commercial property\" is a scope detail not in the reference, but it is plausibly from the sources and doesn't conflict with it.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What is the subsidence excess on the Harbourline property wording?",
+    "answer": "The subsidence, heave and landslip excess is **£2,500 for each and every claim** [S1]. The Harbourline email of 18 September 2026 changes only the escape of water excess, so it does not affect this figure [S2].\n\n- If the building is unoccupied, the excess for any claim is doubled [S1]. \"Unoccupied\" means not used by the insured for its business for more than 30 consecutive days [S4].\n- Prompt claim notification is a condition precedent to liability, and claims must be notified within 14 days [S6]. Please check this before the client is told about the excess.",
+    "cited": [
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 3",
+      "Insurer emails/2026-09-18 Harbourline - escape of water excess change.eml | email",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 1",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 5"
+    ],
+    "ms": 3752,
+    "usage": {
+      "input": 1790,
+      "output": 681
+    },
+    "correct": true,
+    "judge": "The assistant gives the same key figure as the reference, £2,500 for each and every claim, and its extra details (the unoccupied-building doubling, the 14-day notification condition, and the email changing only the escape of water excess) add context without contradicting the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What happens to the excess if a Harbourline-insured building is unoccupied?",
+    "answer": "While a building is unoccupied, the excess for any claim is doubled [S1]. \"Unoccupied\" means not used by the insured for its business for more than 30 consecutive days [S5]. The documents don't state the resulting doubled amounts. Doubling the base excesses would give £1,000 standard, £2,000 for escape of water and £5,000 for subsidence, heave and landslip, but that is my arithmetic from [S1], so please check it before quoting it.\n\n- The insured must tell Harbourline within 7 days if a building becomes unoccupied and inspect it at least weekly [S2]. The placement guide sets the same 7-day and weekly requirements and says the insurer must be told within 7 days [S6].\n- Theft from an unoccupied building, and malicious damage while it is unoccupied, are excluded [S3].\n- Claims must be notified within 14 days, and prompt notification is a condition precedent to liability [S2].",
+    "cited": [
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 3",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 1",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 5",
+      "Placement and Underwriting Guide.docx | § Property risk requirements",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 4"
+    ],
+    "ms": 5085,
+    "usage": {
+      "input": 1699,
+      "output": 1049
+    },
+    "correct": true,
+    "judge": "The answer states the key fact, that the excess for any claim is doubled while the building is unoccupied, which matches the reference. The extra details (the 30-day definition, notification and inspection duties, exclusions, and the flagged arithmetic) do not contradict the reference, and the assistant labels its own calculation as unverified.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "How many days before a building counts as unoccupied under Harbourline?",
+    "answer": "A building counts as unoccupied under Harbourline once it is \"not used by you for your business for more than 30 consecutive days\" [S1].\n\n- Harbourline must be told within 7 days if a building becomes unoccupied, and the building must be inspected at least weekly [S2]. Our guide repeats both requirements [S3].\n- While a building is unoccupied, the excess for any claim is doubled [S5].",
+    "cited": [
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 1",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 5",
+      "Placement and Underwriting Guide.docx | § Property risk requirements",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 3"
+    ],
+    "ms": 2205,
+    "usage": {
+      "input": 1609,
+      "output": 421
+    },
+    "correct": true,
+    "judge": "The assistant's answer gives the same key fact as the reference: a building counts as unoccupied once it is not used for the business for more than 30 consecutive days. The extra details about notifying Harbourline within 7 days, weekly inspections and a doubled excess do not contradict the reference, though I can't verify them from the information given.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "How quickly must a claim be notified to Harbourline, and what if it is late?",
+    "answer": "Under the policy wording, a claim must be notified to Harbourline within 14 days, and prompt notification is a condition precedent to liability [S1]. Our Placement and Underwriting Guide says clients must report incidents to us within 48 hours [S2].\n\n- **Condition precedent:** Late notice can mean the claim is declined [S1][S2].\n- **Conflicting timescales:** The policy allows 14 days, while our guide sets a 48-hour client target [S1][S2]. Neither source is dated, so I can't tell which is newer. The documents don't say what counts as \"prompt\" within the 14 days.\n- **Contact details:** Claims go to claims@harbourline.example or 0300 555 0142 [S1].\n\nThe documents don't say how Harbourline would treat a claim notified late, beyond the risk of it being declined [S1][S2].",
+    "cited": [
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 5",
+      "Placement and Underwriting Guide.docx | § Claims notification"
+    ],
+    "ms": 5446,
+    "usage": {
+      "input": 1656,
+      "output": 1141
+    },
+    "correct": true,
+    "judge": "The answer gives the key facts from the reference: 14 days, prompt notification as a condition precedent, and the risk that late notice leads to the claim being declined. The 48-hour figure comes from an internal guide and is presented as a separate client target, so it does not contradict the 14-day policy deadline. The only minor flaw is that it cites [S2] for the condition precedent, which is unverifiable and may be imprecise, but the core facts are right.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What is the Harbourline claims phone number?",
+    "answer": "The Harbourline claims phone number is 0300 555 0142, and claims can also be emailed to claims@harbourline.example [S1].\n\n- **Deadline:** The policy requires notice of any claim within 14 days, and prompt notification is a condition precedent to Harbourline's liability [S1]. Our guide asks clients to report incidents to us within 48 hours, and we then notify the insurer the same working day [S5].\n- **Condition precedent:** Our guide warns that late notice can mean a claim is declined [S5]. Handlers should check the claims condition on each policy.",
+    "cited": [
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 5",
+      "Placement and Underwriting Guide.docx | § Claims notification"
+    ],
+    "ms": 2132,
+    "usage": {
+      "input": 1719,
+      "output": 420
+    },
+    "correct": true,
+    "judge": "The answer gives the correct phone number (0300 555 0142) and the correct email (claims@harbourline.example), matching the reference. The extra details on deadlines don't contradict the reference, and we can't verify them here, but they don't conflict with it.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Does the Harbourline property policy cover ransomware?",
+    "answer": "The Harbourline wording excludes ransomware. It does not cover loss caused by cyber events, including ransomware, unless the cyber extension is shown in the schedule [S1].\n\n- The documents don't say whether any client's schedule includes the cyber extension, so check the schedule for the specific policy.\n- The documents don't say whether any cover applies to ransomware-related loss other than through that extension.",
+    "cited": [
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 4"
+    ],
+    "ms": 2049,
+    "usage": {
+      "input": 2230,
+      "output": 323
+    },
+    "correct": true,
+    "judge": "The assistant's answer matches the reference's key facts: ransomware and other cyber events are excluded unless the cyber extension appears in the schedule. Its caveats about checking the specific schedule and about other cover do not contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What is the maximum business interruption indemnity period with Harbourline?",
+    "answer": "The maximum business interruption indemnity period with Harbourline is up to 24 months [S1]. Business interruption is covered only if it is shown in the schedule [S1].\n\n- Check the schedule before telling the client they have business interruption cover, because the wording covers it only if it is shown there [S1].",
+    "cited": [
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 2"
+    ],
+    "ms": 1411,
+    "usage": {
+      "input": 1755,
+      "output": 250
+    },
+    "correct": true,
+    "judge": "The answer gives the 24-month maximum and the condition that business interruption must be shown in the schedule, matching the reference, and the added advice to check the schedule is consistent with it.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What fire suppression condition applies to restaurants under the Harbourline wording?",
+    "answer": "Under the Harbourline wording, where deep-fat frying takes place, an automatic fire suppression system must be fitted and serviced at least every six months [S1]. That servicing requirement is a condition precedent to Harbourline's liability for fire claims [S1].\n\n- **Referral:** Harbourline's appetite for restaurants with deep-fat frying is \"Refer\" [S5]. Our guide places these risks with Harbourline only where the suppression system is serviced every six months, and without suppression they must be declined [S4]. The documents don't say who must approve the referral.\n- **Most recent position (Bramble Kitchen):** In an email dated 4 November 2026, Harbourline declined to quote because the fryer suppression system was last serviced in March 2026 [S3]. It said it would quote at its standard restaurant rate of 0.28% of the sum insured if the client provides a service certificate dated within the last six months [S3].",
+    "cited": [
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 5",
+      "Insurer rates and appetite.xlsx | Sheet Appetite, rows 2-11",
+      "Placement and Underwriting Guide.docx | § Trades we place",
+      "Insurer emails/2026-11-04 Harbourline - Bramble Kitchen suppression decline.eml | email"
+    ],
+    "ms": 4791,
+    "usage": {
+      "input": 2414,
+      "output": 1117
+    },
+    "correct": true,
+    "judge": "The answer states the same key facts as the reference (deep-fat frying, an automatic fire suppression system, servicing at least every six months, and a condition precedent for fire claims), and its extra referral and Bramble Kitchen details do not contradict the reference. <correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Why did Harbourline refuse to quote Bramble Kitchen?",
+    "answer": "Harbourline declined to quote because the fryer fire suppression system was last serviced in March 2026, more than six months before its survey [S1]. Its policy requires an automatic fire suppression system where deep-fat frying takes place, serviced at least every six months [S2], and its appetite sheet lists restaurants with deep-fat frying as \"Refer\", with Harbourline cover only if the system is serviced six-monthly [S5].\n\n- The six-monthly service is a condition precedent to Harbourline's liability for fire claims [S2], so a lapsed service is a coverage risk for the client, not just a quoting issue.\n- Harbourline will quote at its standard restaurant rate of 0.28% of the sum insured if the client provides a service certificate dated within the last six months [S1].\n- The documents don't say who must approve the \"Refer\" decision on this risk.",
+    "cited": [
+      "Insurer emails/2026-11-04 Harbourline - Bramble Kitchen suppression decline.eml | email",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 5",
+      "Insurer rates and appetite.xlsx | Sheet Appetite, rows 2-11"
+    ],
+    "ms": 2891,
+    "usage": {
+      "input": 2414,
+      "output": 610
+    },
+    "correct": true,
+    "judge": "The answer matches the reference on the key facts: the fryer suppression system was last serviced in March 2026, more than six months ago, and Harbourline will quote at 0.28% if a recent service certificate is provided. The extra details (policy requirement, condition precedent, \"Refer\" status) don't contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Do we place restaurants with deep-fat frying?",
+    "answer": "**Yes, but only with Harbourline Insurance, and only where the fryers have an automatic fire suppression system serviced every six months.** Without suppression, deep-fat frying risks must be declined [S1]. Our appetite sheet shows Harbourline as \"Refer\" and Northgate Mutual as \"Yes\" for this trade [S3], but our guide limits these risks to Harbourline [S1].\n\n- The suppression system must be fitted and serviced at least every six months, and this is a condition precedent to Harbourline's liability for fire claims [S4].\n- Harbourline declined Bramble Kitchen on 4 November 2026 because the fryer suppression was last serviced in March 2026. It will quote at 0.28% of the sum insured if the client provides a service certificate dated within the last six months [S6]. The appetite sheet is undated, so the documents don't show which is newer, but the 4 November email is the latest dated source.\n- The documents don't say who approves the Harbourline \"Refer\" or whether the referral is needed before quoting.",
+    "cited": [
+      "Placement and Underwriting Guide.docx | § Trades we place",
+      "Insurer rates and appetite.xlsx | Sheet Appetite, rows 2-11",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 5",
+      "Insurer emails/2026-11-04 Harbourline - Bramble Kitchen suppression decline.eml | email"
+    ],
+    "ms": 5054,
+    "usage": {
+      "input": 2205,
+      "output": 1156
+    },
+    "correct": true,
+    "judge": "The assistant gets the core facts right: Harbourline only, automatic suppression serviced every six months, decline without it, and Harbourline marked \"Refer\". However, it leaves out the reference's clarification that Northgate's \"Yes\" relates only to liability cover, and it says \"Yes, but only with Harbourline\" without scoping to property. It does say the guide limits these risks to Harbourline, so it does not contradict the reference, and the Northgate omission is a minor detail. The extra claims (Bramble Kitchen, 0.28%, condition precedent) cannot be checked against the reference and do not contradict it, though the \"liability for fire claims\" wording is slightly ambiguous.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Which trades do we decline?",
+    "answer": "We do not place waste and recycling, scrap metal, fireworks, nightclubs, demolition, or any business with a prior arson claim in the last five years [S1]. Deep-fat frying risks without an automatic fire suppression system must also be declined [S2].\n\n- Restaurants and takeaways with deep-fat frying are placed only with Harbourline, and only where the fryers have suppression serviced every six months [S2]. A newer Harbourline email declined Bramble Kitchen because its suppression was last serviced in March 2026. Harbourline would quote if the client provides a service certificate dated within the last six months [S3].\n- The documents don't say who can approve an exception to these declines.",
+    "cited": [
+      "Placement and Underwriting Guide.docx | § Trades we decline",
+      "Placement and Underwriting Guide.docx | § Trades we place",
+      "Insurer emails/2026-11-04 Harbourline - Bramble Kitchen suppression decline.eml | email"
+    ],
+    "ms": 3717,
+    "usage": {
+      "input": 1704,
+      "output": 806
+    },
+    "correct": true,
+    "judge": "The assistant lists all the declined trades correctly, including the five-year arson condition, but it changes the fire suppression condition. The reference requires a \"serviced\" fire suppression system. The answer says \"automatic fire suppression system\", which drops the serviced requirement. The added bullets restore the six-month servicing detail, and they do not contradict the reference. However, the main statement is a wording change, and the requirement is covered later in the answer, so it is not a wrong figure or a missing key condition. Because the later bullet supplies the serviced condition, the answer is substantively consistent with the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Can I bind a renewal with a 12% premium increase without approval?",
+    "answer": "**Yes, under S1 a 12% premium change is within the 15% limit, so you can bind without account director approval.** [S1] However, if the 12% is a rate increase proposed by the insurer, you must first obtain at least one alternative quotation, because the rule applies to rate increases above 10%. [S2]\n\n- Confirm whether the 12% is a premium change or a rate change. S1 refers to premium change and S2 to rate increase, and the documents don't say whether they are the same thing. [S1][S2]\n- The documents don't say whether the alternative quotation must be obtained before binding, only that it must be obtained. [S2]\n- Renewal timings apply: start the renewal process 60 days before expiry and send the client a renewal summary at least 21 days before expiry. [S2]",
+    "cited": [
+      "Placement and Underwriting Guide.docx | § Authority levels",
+      "Placement and Underwriting Guide.docx | § Renewals"
+    ],
+    "ms": 3542,
+    "usage": {
+      "input": 1762,
+      "output": 758
+    },
+    "correct": false,
+    "judge": "The answer says yes, with the 15% limit and no approval needed, which matches the reference, but it then adds a condition that contradicts it: a rate increase above 10% requires an alternative quotation first. That condition qualifies the reference's unconditional \"yes\" and may not be supported, and the answer also hedges inconsistently (\"must first obtain\" versus \"documents don't say whether before binding\"). The reference states no such condition, so the added requirement is a substantive deviation that changes the guidance for a 12% increase.\n\n<correct>false</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Who must approve new business with a premium of £40,000?",
+    "answer": "A new business premium of £40,000 must be approved by an account director before binding. The rule applies to all new business with a premium above £25,000 [S1].\n\n- The approval must be obtained before binding, not after [S1].",
+    "cited": [
+      "Placement and Underwriting Guide.docx | § Authority levels"
+    ],
+    "ms": 1813,
+    "usage": {
+      "input": 1547,
+      "output": 278
+    },
+    "correct": true,
+    "judge": "The answer matches the reference on all key facts: an account director must approve before binding, the threshold is above £25,000, and £40,000 exceeds it, with no contradictions.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "When is a risk survey required before inception?",
+    "answer": "A risk survey is required before inception for buildings with a sum insured above £2,000,000. [S1]\n\n- The threshold is \"above £2,000,000\", so a building with a sum insured of exactly £2,000,000 is not caught by this rule. [S1]",
+    "cited": [
+      "Placement and Underwriting Guide.docx | § Property risk requirements"
+    ],
+    "ms": 1683,
+    "usage": {
+      "input": 1715,
+      "output": 266
+    },
+    "correct": true,
+    "judge": "The answer matches the reference's key facts: a risk survey is required before inception for buildings with a sum insured above £2,000,000. The extra point that exactly £2,000,000 isn't caught follows logically from \"above\" and doesn't contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Which construction types must be referred to the insurer before quoting?",
+    "answer": "Three construction types must be referred to the insurer before quotation: thatched roofs, timber-frame construction and EPS panels [S1].\n\n- Any risk that needs an insurer referral must be referred before quotation, never after [S2].",
+    "cited": [
+      "Placement and Underwriting Guide.docx | § Property risk requirements",
+      "Placement and Underwriting Guide.docx | § Authority levels"
+    ],
+    "ms": 1823,
+    "usage": {
+      "input": 1628,
+      "output": 315
+    },
+    "correct": true,
+    "judge": "The answer lists the same three construction types as the reference (thatched roofs, timber-frame construction, EPS panels) and adds a consistent point that referral must occur before quotation, which does not contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "How long do clients have to report an incident to us?",
+    "answer": "Clients must report any incident to us within 48 hours [S1]. The insurer deadlines in the policy wordings differ, and the shortest one applies in practice, so check the specific policy before advising the client.\n\n- **Harbourline (HL-CP 2026):** notify within 14 days, and prompt notification is a condition precedent to liability for claims [S3]. Claims go to claims@harbourline.example or 0300 555 0142 [S3].\n- **Northgate Mutual (NM-EPL 2026):** report \"as soon as reasonably possible, and in any case within 30 days\" [S4]. The documents don't say whether this is a condition precedent.\n- **Ashby & Vale (AV-FM 2026):** report within 48 hours using the 24-hour line, 0300 555 0177 [S2].",
+    "cited": [
+      "Placement and Underwriting Guide.docx | § Claims notification",
+      "Policy wordings/Harbourline Commercial Property Policy Wording.pdf | p. 5",
+      "Policy wordings/Northgate Mutual Liability Policy Wording.pdf | p. 4",
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 4"
+    ],
+    "ms": 3717,
+    "usage": {
+      "input": 1577,
+      "output": 816
+    },
+    "correct": false,
+    "judge": "The answer gives the key figure (48 hours for clients to report to us) but omits the reference's second key fact, that we notify the insurer the same working day. It also adds a claim that \"the shortest [insurer deadline] applies in practice,\" which sits uneasily with the reference's same-day notification process, and it implies a different workflow. A missing key \"when\" condition (same-working-day insurer notification) counts as a gap rather than a minor detail.\n\n<correct>false</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "How early should we start the renewal process?",
+    "answer": "You should start the renewal process 60 days before expiry [S1].\n\n- The client needs a renewal summary at least 21 days before expiry [S1].\n- For Kestrel Logistics Ltd, the EL/PL renewal is 1 December 2026 [S2], so the 60-day start point falls on 2 October 2026.",
+    "cited": [
+      "Placement and Underwriting Guide.docx | § Renewals",
+      "Insurer emails/2026-10-02 Northgate - Kestrel Logistics renewal terms.eml | email"
+    ],
+    "ms": 2466,
+    "usage": {
+      "input": 1727,
+      "output": 453
+    },
+    "correct": true,
+    "judge": "The answer gives both key facts from the reference, a 60-day start and a renewal summary at least 21 days before expiry, and its added Kestrel example (2 October 2026 is 60 days before 1 December 2026) is arithmetically right and does not contradict the reference. <correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What should I do if an insurer proposes a 12% rate increase at renewal?",
+    "answer": "A proposed 12% rate increase is above the 10% threshold, so you must obtain at least one alternative quotation [S1]. The documents don't say whether a 12% rate increase is also a premium change above 15%, which decides whether account director approval is needed.\n\n- Obtain at least one alternative quotation before binding [S1].\n- Account handlers may bind renewals with a premium change of up to 15% without approval. A premium increase above 15% must be approved by an account director before binding [S3]. Check the premium change, not just the rate change.\n- Renewal timing: start the process 60 days before expiry, and send the client a renewal summary at least 21 days before expiry [S1].",
+    "cited": [
+      "Placement and Underwriting Guide.docx | § Renewals",
+      "Placement and Underwriting Guide.docx | § Authority levels"
+    ],
+    "ms": 4717,
+    "usage": {
+      "input": 1816,
+      "output": 985
+    },
+    "correct": true,
+    "judge": "The assistant's answer gives the reference's key fact: obtain at least one alternative quotation because 12% exceeds the 10% threshold. The extra details (15% approval threshold, timing) don't contradict the reference, and the answer appropriately flags that premium change versus rate change is uncertain.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "How quickly must a complaint be acknowledged?",
+    "answer": "A complaint must be acknowledged to the client within 5 working days. [S1]\n\n- The complaint must also be logged in the complaints register the same day. [S1]\n- The final response is due within 8 weeks. [S1]",
+    "cited": [
+      "Placement and Underwriting Guide.docx | § Complaints"
+    ],
+    "ms": 1211,
+    "usage": {
+      "input": 1618,
+      "output": 179
+    },
+    "correct": true,
+    "judge": "The answer matches all key facts in the reference: acknowledgment within 5 working days, same-day logging, and a final response within 8 weeks, with no contradictions.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What is our target commission on fleet motor?",
+    "answer": "Our target commission on fleet motor is 12.5%, and the minimum is 10% [S1].",
+    "cited": [
+      "Placement and Underwriting Guide.docx | table 1"
+    ],
+    "ms": 1567,
+    "usage": {
+      "input": 1513,
+      "output": 225
+    },
+    "correct": true,
+    "judge": "The assistant's answer matches the reference on both key figures (12.5% target, 10% minimum) and contradicts nothing, with the added \"[S1]\" being just a source citation.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What is the employers' liability limit with Northgate Mutual?",
+    "answer": "The employers' liability limit with Northgate Mutual is £10,000,000 for any one occurrence, including costs [S1].\n\n- The limit is reduced to £5,000,000 for claims arising out of terrorism [S1].\n- The Kestrel Logistics renewal email of 2 October 2026 does not change the limit. It offers a rate of 0.70% of wageroll, subject to a manual handling training record for all warehouse staff by 15 November 2026 [S6].",
+    "cited": [
+      "Policy wordings/Northgate Mutual Liability Policy Wording.pdf | p. 1",
+      "Insurer emails/2026-10-02 Northgate - Kestrel Logistics renewal terms.eml | email"
+    ],
+    "ms": 3011,
+    "usage": {
+      "input": 2445,
+      "output": 605
+    },
+    "correct": true,
+    "judge": "The answer matches the reference on both key facts: £10,000,000 any one occurrence including costs, and a reduction to £5,000,000 for terrorism. The extra Kestrel Logistics renewal detail does not contradict the reference, though it is unverifiable and tangential.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What public liability limit does Northgate offer, and can it be increased?",
+    "answer": "Northgate's public liability limit is £5,000,000 any one occurrence [S1]. Higher limits of £10,000,000 are available by endorsement [S1].\n\n- The documents don't say whether the £10,000,000 endorsement needs underwriter or director approval, or whether it carries extra premium.\n- Northgate's Kestrel Logistics renewal email says \"Public liability terms are as expiring\" but doesn't state a limit [S4]. The documents don't give Kestrel's expiring PL limit, so check the expiring schedule before quoting a figure.",
+    "cited": [
+      "Policy wordings/Northgate Mutual Liability Policy Wording.pdf | p. 2",
+      "Insurer emails/2026-10-02 Northgate - Kestrel Logistics renewal terms.eml | email"
+    ],
+    "ms": 3679,
+    "usage": {
+      "input": 2446,
+      "output": 717
+    },
+    "correct": true,
+    "judge": "The answer gives £5,000,000 any one occurrence and £10,000,000 available by endorsement, matching the reference, and its additional notes about unknowns (approval, premium, Kestrel's expiring limit) don't contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Is there an excess for bodily injury claims on the Northgate liability policy?",
+    "answer": "No excess applies to bodily injury claims under the public liability section (Part B) of the Northgate wording [S1]. The documents don't say whether the employers' liability section (Part A) has an excess for bodily injury claims, as the Part A extract covers only limits and territory [S2].\n\n- The £250 excess applies only to third-party property damage claims under Part B [S1].\n- Claim notification deadline: the insured must notify Northgate of any incident that may lead to a claim \"as soon as reasonably possible, and in any case within 30 days\" [S3].",
+    "cited": [
+      "Policy wordings/Northgate Mutual Liability Policy Wording.pdf | p. 2",
+      "Policy wordings/Northgate Mutual Liability Policy Wording.pdf | p. 1",
+      "Policy wordings/Northgate Mutual Liability Policy Wording.pdf | p. 4"
+    ],
+    "ms": 3379,
+    "usage": {
+      "input": 1878,
+      "output": 701
+    },
+    "correct": true,
+    "judge": "The answer matches the reference's key facts: no excess applies to bodily injury claims, and the £250 excess applies only to third-party property damage. The extra material, on Part A being silent and on the 30-day notification, does not contradict the reference. It is hedged and attributed to sources.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What are the heat work conditions in the Northgate wording?",
+    "answer": "Under the Northgate wording, when you use any flame or heat-producing equipment away from your premises, you must keep a suitable fire extinguisher at hand, remove combustible materials within 10 metres, and inspect the area for 60 minutes after work ends [S1].\n\n- **Condition precedent:** The wording states that this is \"a condition precedent to our liability\" [S1], so non-compliance could affect whether Northgate pays a claim.\n- **Appetite restriction:** The appetite sheet notes that for light manufacturing, \"Northgate excludes heat work without a permit system\" [S2].\n- **Gap:** The documents don't say what a permit system must involve or how it relates to the conditions in Part D [S1][S2].",
+    "cited": [
+      "Policy wordings/Northgate Mutual Liability Policy Wording.pdf | p. 4",
+      "Insurer rates and appetite.xlsx | Sheet Appetite, rows 2-11"
+    ],
+    "ms": 3683,
+    "usage": {
+      "input": 2396,
+      "output": 765
+    },
+    "correct": true,
+    "judge": "The answer matches all the reference's key facts (extinguisher at hand, combustibles cleared within 10 metres, 60-minute post-work inspection, condition precedent) and its extra points do not contradict the reference. <correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Does Northgate cover work at heights?",
+    "answer": "Northgate's wording does not cover liability arising from work at heights above 15 metres, unless it is agreed in writing [S1]. The appetite sheet records the same limit, noting that Northgate excludes work above 15 metres [S3].\n\n- Any work above 15 metres needs Northgate's written agreement before cover applies. The documents don't say who at Northgate or in our firm can give that agreement, so check with the placement team before quoting [S1].\n- The documents don't say whether work at or below 15 metres is covered in full. The exclusion addresses only work above that height [S1].",
+    "cited": [
+      "Policy wordings/Northgate Mutual Liability Policy Wording.pdf | p. 3",
+      "Insurer rates and appetite.xlsx | Sheet Appetite, rows 2-11"
+    ],
+    "ms": 4911,
+    "usage": {
+      "input": 2391,
+      "output": 1071
+    },
+    "correct": true,
+    "judge": "The answer matches the reference on the key facts: no cover above 15 metres unless agreed in writing. The extra caveats (who can give agreement, coverage at or below 15 m) don't contradict the reference and are appropriately hedged. One slight nuance: \"appetite sheet... excludes work above 15 metres\" omits the written-agreement exception for S3, but this is minor and doesn't contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What public liability limit must subcontractors hold under Northgate's conditions?",
+    "answer": "Under Northgate's conditions, subcontractors must hold public liability insurance with a limit of at least £2,000,000, and the policyholder must check this [S2].\n\n- The condition says you \"must check\" subcontractors hold this cover. The documents don't say what happens if it isn't met.\n- Unlike the heat work condition, this one is not described as a condition precedent in the source [S2].",
+    "cited": [
+      "Policy wordings/Northgate Mutual Liability Policy Wording.pdf | p. 4"
+    ],
+    "ms": 1965,
+    "usage": {
+      "input": 2449,
+      "output": 325
+    },
+    "correct": true,
+    "judge": "The assistant gives the key figure, at least £2,000,000, which matches the reference, and its extra remarks about checking and condition precedent do not contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What renewal terms did Northgate offer for Kestrel Logistics?",
+    "answer": "Northgate offered to renew Kestrel Logistics' employers' liability at 0.70% of wageroll, instead of 0.65%, which is a 7.5% rate increase [S1]. Public liability terms are \"as expiring\" [S1], but the documents don't say what the expiring public liability terms are.\n\n- **Condition:** The offer is subject to a manual handling training record for all warehouse staff by 15 November 2026 [S1]. This looks like a condition precedent, so the client needs to be told before the deadline.\n- **Validity:** The terms are valid for 30 days [S1]. The email is dated Fri, 02",
+    "cited": [
+      "Insurer emails/2026-10-02 Northgate - Kestrel Logistics renewal terms.eml | email"
+    ],
+    "ms": 5261,
+    "usage": {
+      "input": 2832,
+      "output": 1200
+    },
+    "correct": true,
+    "judge": "The answer gives the key facts from the reference: EL at 0.70% instead of 0.65% (a 7.5% increase), PL as expiring, the manual handling training records condition by 15 November 2026, and a 30-day validity. The added \"all warehouse staff\" detail and the \"condition precedent\" comment don't contradict the reference. The text is truncated mid-sentence at the end, but all the key facts appear before that point.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What condition is attached to the Kestrel Logistics renewal?",
+    "answer": "The Kestrel Logistics renewal is subject to a manual handling training record for all warehouse staff by 15 November 2026 [S1]. The employers' liability rate rises to 0.70% from 0.65%, a 7.5% increase, and public liability terms are as expiring [S1].\n\n- The offer is valid for 30 days [S1]. The email is dated 2 October 2026 and gives no expiry date, so the documents don't say exactly when the terms lapse.\n- The documents don't say what happens if the training record is not provided by 15 November 2026, or whether this is a condition precedent [S1].\n- The renewal is due on 1 December 2026 [S1].",
+    "cited": [
+      "Insurer emails/2026-10-02 Northgate - Kestrel Logistics renewal terms.eml | email"
+    ],
+    "ms": 4201,
+    "usage": {
+      "input": 1868,
+      "output": 873
+    },
+    "correct": true,
+    "judge": "The answer states the same condition as the reference (a manual handling training record for all warehouse staff by 15 November 2026) and nothing in it contradicts the reference. The extra rate and date details are outside the reference, though \"7.5%\" looks slightly off for a rise from 0.65% to 0.70% (about 7.7%).\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Who can drive under the Ashby & Vale fleet policy?",
+    "answer": "Under the Ashby & Vale fleet wording, any driver aged 25 to 75 with a full UK licence held for at least 2 years, who is employed by you, can drive [S1]. Drivers under 25 are covered only if Ashby & Vale approve them in writing before they drive, and drivers with more than 6 penalty points, or any drink-driving conviction in the last 10 years, are not covered unless Ashby & Vale agree [S1].\n\n- **Under-25s are a referral.** The handler sends the driver's licence check and claims history to Ashby & Vale and waits for written approval [S2]. The under-25 excess is £750, added to the accidental damage excess of £350 [S4].\n- **Jamie Fenwick (age 22, Fenwick Builders) has a narrower approval.** Mark Doyle at Ashby & Vale approved him only for the Ford Transit (registration FB21 KLM), with the £750 young driver excess applying, and not for the tipper truck. Approval is effective from 22 October 2026 [S5]. This email is newer than the wording and sets the limits for this driver.\n- **Deadline:** accidents must be reported to Ashby & Vale within 48 hours, using the 24-hour line 0300 555 0177 [S6].",
+    "cited": [
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 1",
+      "Placement and Underwriting Guide.docx | § Fleet and motor",
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 2",
+      "Insurer emails/2026-10-21 Ashby & Vale - young driver approval Fenwick Builders.eml | email",
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 4"
+    ],
+    "ms": 5529,
+    "usage": {
+      "input": 1710,
+      "output": 1176
+    },
+    "correct": true,
+    "judge": "The answer gives the reference's key facts: employed drivers aged 25 to 75, a full UK licence held for at least 2 years, and under-25s only with written approval. The extra details (penalty points, excess figures, the Jamie Fenwick approval) add to the reference without contradicting it.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What excess applies to a 22-year-old driver on the Ashby & Vale fleet?",
+    "answer": "For a 22-year-old driver, the accidental damage excess is £350 plus an additional £750 for drivers under 25, so £1,100 in total for an accidental damage claim [S1]. The documents don't say whether the under-25 excess applies to windscreen claims, which carry their own excesses of £75 or £250 [S1].\n\n- **Approval needed first:** Drivers under 25 are covered only if Ashby & Vale approve them in writing before they drive [S4]. The handler must send the licence check and claims history for referral [S2].\n- **Fenwick approval is limited:** Mark Doyle's email of 21 October 2026 approves Jamie Fenwick (age 22) for the Ford Transit (FB21 KLM) only, not the tipper truck, effective from 22 October 2026, with the £750 young driver excess applying [S3]. This is the most recent instruction and covers only that named driver and vehicle.\n- **Deadline:** Accidents must be reported to Ashby & Vale within 48 hours via the 24-hour line, 0300 555 0177 [S5].",
+    "cited": [
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 2",
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 1",
+      "Placement and Underwriting Guide.docx | § Fleet and motor",
+      "Insurer emails/2026-10-21 Ashby & Vale - young driver approval Fenwick Builders.eml | email",
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 4"
+    ],
+    "ms": 5017,
+    "usage": {
+      "input": 1718,
+      "output": 982
+    },
+    "correct": true,
+    "judge": "The answer gives the same key figures as the reference (£350 accidental damage excess plus £750 young driver excess, £1,100 total) and nothing in it contradicts the reference; the extra details on approval, windscreen claims and reporting are additional and not contradictory.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Was Jamie Fenwick approved to drive, and which vehicles?",
+    "answer": "Yes. Mark Doyle at Ashby & Vale approved Jamie Fenwick (age 22) to drive only the Ford Transit, registration FB21 KLM. He is not approved for the tipper truck, and the approval is effective from 22 October 2026 [S1].\n\n- Under-25 drivers are covered only if approved in writing before they drive [S2], so driving before 22 October 2026, or in the tipper truck, falls outside this approval [S1][S2].\n- The £750 young driver excess applies [S1]. It is added to the £350 accidental damage excess for each claim [S5].\n- Accidents must be reported to Ashby & Vale within 48 hours using their 24-hour line, 0300 555 0177 [S3].",
+    "cited": [
+      "Insurer emails/2026-10-21 Ashby & Vale - young driver approval Fenwick Builders.eml | email",
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 1",
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 2",
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 4"
+    ],
+    "ms": 4758,
+    "usage": {
+      "input": 1856,
+      "output": 1080
+    },
+    "correct": true,
+    "judge": "The assistant's answer matches the reference on the key facts: approval from 22 October 2026, the Ford Transit FB21 KLM only, the £750 young driver excess, and no approval for the tipper truck; the extra details (S2, S5, S3) do not contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Does the Ashby & Vale fleet policy cover goods in transit?",
+    "answer": "No, the Ashby & Vale fleet motor policy does not cover goods in transit. Section 3 states: \"Goods in transit is not covered by this policy.\" [S1]\n\nThe documents don't say whether Ashby & Vale or another insurer offers goods in transit cover for this client, or what the options would be. [S1][S5][S6]",
+    "cited": [
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 3",
+      "Insurer rates and appetite.xlsx | Sheet Appetite, rows 2-11",
+      "Placement and Underwriting Guide.docx | § Fleet and motor"
+    ],
+    "ms": 2234,
+    "usage": {
+      "input": 2137,
+      "output": 347
+    },
+    "correct": true,
+    "judge": "The assistant's answer gives the same key fact as the reference (goods in transit is not covered), adds a supporting quote, and its caveat about unknown alternative cover does not contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "How long can vehicles be used in the EU under the Ashby & Vale policy?",
+    "answer": "Under the Ashby & Vale Fleet Motor Policy Wording, vehicles can be used in any EU country for up to 30 days per trip. [S1]\n\n- The 30-day limit applies per trip, not per year. [S1]\n- The documents don't say what happens to cover on a trip longer than 30 days.",
+    "cited": [
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 3"
+    ],
+    "ms": 2417,
+    "usage": {
+      "input": 1715,
+      "output": 423
+    },
+    "correct": true,
+    "judge": "The assistant's answer gives the same key fact as the reference (up to 30 days per trip in the EU) and adds nothing that contradicts it. The extra notes, that the limit is per trip and that the documents are silent on longer trips, are consistent with the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "When must telematics be fitted on a large HGV fleet with Ashby & Vale?",
+    "answer": "Telematics must be fitted within 30 days of inception on a fleet of more than 10 HGVs with Ashby & Vale [S1]. Telematics is required for any fleet of more than 10 HGVs [S2][S4].\n\n- The 30-day requirement is in the policy's Conditions section [S1]. The documents don't say whether a late fit affects cover.\n- Accidents must be reported to Ashby & Vale within 48 hours, using their 24-hour line, 0300 555 0177 [S1]. This is a notification deadline.",
+    "cited": [
+      "Policy wordings/Ashby & Vale Fleet Motor Policy Wording.pdf | p. 4",
+      "Placement and Underwriting Guide.docx | § Fleet and motor",
+      "Insurer rates and appetite.xlsx | Sheet Appetite, rows 2-11"
+    ],
+    "ms": 2794,
+    "usage": {
+      "input": 2235,
+      "output": 563
+    },
+    "correct": true,
+    "judge": "The answer gives the same key facts as the reference (within 30 days of inception, fleets of more than 10 HGVs) and nothing in it contradicts the reference; the extra details about accident reporting and the note on late fitting are additional and not contradictory.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What is Harbourline's base rate for retail shops?",
+    "answer": "Harbourline's base rate for retail shops under commercial property is **0.12% of sum insured** [S1].\n\n- The minimum premium for this line is £450 [S1].",
+    "cited": [
+      "Insurer rates and appetite.xlsx | Sheet Rates, rows 2-12"
+    ],
+    "ms": 1873,
+    "usage": {
+      "input": 2717,
+      "output": 313
+    },
+    "correct": true,
+    "judge": "The answer gives both key facts from the reference (0.12% of sum insured and a £450 minimum premium), and the added \"commercial property\" context and [S1] citation do not contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What does Ashby & Vale charge per HGV, and what is the minimum premium?",
+    "answer": "Ashby & Vale Underwriting's base rate for HGVs (over 7.5t) is £2,150 per vehicle, with a minimum premium of £10000 [S1]. The documents don't say how the minimum premium applies when a fleet has several HGVs.\n\n- Telematics is required for any fleet of more than 10 HGVs [S3][S6].",
+    "cited": [
+      "Insurer rates and appetite.xlsx | Sheet Rates, rows 2-12",
+      "Placement and Underwriting Guide.docx | § Fleet and motor",
+      "Insurer rates and appetite.xlsx | Sheet Appetite, rows 2-11"
+    ],
+    "ms": 2238,
+    "usage": {
+      "input": 2694,
+      "output": 414
+    },
+    "correct": true,
+    "judge": "The answer gives £2,150 per HGV and a £10,000 minimum premium, matching the reference, and its extra points (the caveat about fleets and the telematics requirement) don't contradict the reference.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "Which insurers will write construction risks?",
+    "answer": "Northgate Mutual is the only insurer marked \"Yes\" for construction, and only for work with no heights above 15 metres [S1]. Ashby & Vale Underwriting is marked \"Refer\" [S1], and Harbourline Insurance is marked \"No\" [S1].\n\n- Northgate excludes liability from work at heights above 15 metres unless agreed in writing [S6].\n- The documents don't say who approves an Ashby & Vale referral.\n- Our placement guide's list of trades we actively place does not include construction [S2], and the documents don't say whether construction risks can be placed. Check with the placement lead before quoting.",
+    "cited": [
+      "Insurer rates and appetite.xlsx | Sheet Appetite, rows 2-11",
+      "Policy wordings/Northgate Mutual Liability Policy Wording.pdf | p. 3",
+      "Placement and Underwriting Guide.docx | § Trades we place"
+    ],
+    "ms": 5186,
+    "usage": {
+      "input": 2710,
+      "output": 1132
+    },
+    "correct": true,
+    "judge": "The answer matches the reference on all three insurers: Northgate Mutual is \"Yes\", Ashby & Vale is \"Refer\", and Harbourline is \"No\". The extra detail about the 15-metre height limit and the caveat about the placement guide do not contradict the reference, though the \"only insurer marked Yes\" and the 15-metre condition are additions that the reference does not confirm.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What is Northgate's employers' liability rate for professional offices?",
+    "answer": "Northgate Mutual's base employers' liability rate for professional offices is 0.08% of wageroll, with a minimum premium of £250 [S1].\n\n- The minimum premium is £250 [S1].\n- The Northgate email in the sources is a renewal quote for Kestrel Logistics Ltd, a logistics account, and does not change the professional offices rate [S5].",
+    "cited": [
+      "Insurer rates and appetite.xlsx | Sheet Rates, rows 2-12",
+      "Insurer emails/2026-10-02 Northgate - Kestrel Logistics renewal terms.eml | email"
+    ],
+    "ms": 2462,
+    "usage": {
+      "input": 2445,
+      "output": 427
+    },
+    "correct": true,
+    "judge": "The answer gives the same key figures as the reference (0.08% of wageroll, £250 minimum premium) and its extra note about the Kestrel Logistics renewal email does not contradict them.\n\n<correct>true</correct>",
+    "cites_right_file": true
+  },
+  {
+    "q": "What premium did we charge Fenwick Builders last year?",
+    "answer": "I can't find this in the documents.",
+    "cited": [],
+    "ms": 1843,
+    "usage": {
+      "input": 2398,
+      "output": 171
+    },
+    "correct": true
+  },
+  {
+    "q": "What is the cyber insurance premium for Kestrel Logistics?",
+    "answer": "I can't find this in the documents.",
+    "cited": [],
+    "ms": 1484,
+    "usage": {
+      "input": 2893,
+      "output": 228
+    },
+    "correct": true
+  },
+  {
+    "q": "Which insurer covers marine cargo?",
+    "answer": "I can't find this in the documents.",
+    "cited": [],
+    "ms": 1057,
+    "usage": {
+      "input": 2800,
+      "output": 126
+    },
+    "correct": true
+  },
+  {
+    "q": "What is our professional indemnity rate for architects?",
+    "answer": "I can't find this in the documents.",
+    "cited": [],
+    "ms": 1136,
+    "usage": {
+      "input": 2867,
+      "output": 144
+    },
+    "correct": true
+  },
+  {
+    "q": "Who is the account director for Bramble Kitchen?",
+    "answer": "I can't find this in the documents.",
+    "cited": [],
+    "ms": 1148,
+    "usage": {
+      "input": 1898,
+      "output": 141
+    },
+    "correct": true
+  },
+  {
+    "q": "What was Harbourline's loss ratio last year?",
+    "answer": "I can't find this in the documents.",
+    "cited": [],
+    "ms": 1080,
+    "usage": {
+      "input": 1948,
+      "output": 128
+    },
+    "correct": true
+  }
+]

@@ -2,7 +2,6 @@
 __pycache__/
 .pytest_cache/
 data/
-results/answers.json
 .env
 *.db
 service-account*.json
