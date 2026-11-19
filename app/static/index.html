@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Document assistant</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header>
+  <strong>Document assistant</strong>
+  <span id="meta" class="muted small"></span>
+  <form method="post" action="/logout"><button class="link">Sign out</button></form>
+</header>
+<div class="layout">
+  <main>
+    <div id="chat">
+      <div class="hint muted">
+        Ask about policy wordings, underwriting rules, rates or insurer emails. Every answer shows where it came from.
+        <div class="examples">
+          <button class="ex">What is the excess for escape of water under the Harbourline commercial property policy?</button>
+          <button class="ex">Do we place restaurants with deep-fat frying?</button>
+          <button class="ex">What did Northgate say about the renewal rate for Kestrel Logistics?</button>
+        </div>
+      </div>
+    </div>
+    <form id="ask">
+      <textarea id="q" rows="2" placeholder="Ask a question…" required></textarea>
+      <button type="submit" id="send">Ask</button>
+    </form>
+  </main>
+  <aside id="panel" hidden>
+    <div class="panel-head"><strong id="ptitle"></strong><button class="link" id="pclose">Close</button></div>
+    <pre id="ptext"></pre>
+  </aside>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

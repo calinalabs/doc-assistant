@@ -1,0 +1,278 @@
+[
+ {
+  "q": "What is the escape of water excess under the Harbourline commercial property policy?",
+  "file": "Harbourline Commercial Property Policy Wording.pdf",
+  "evidence": "Escape of water: £1,000",
+  "answer": "£1,000 for each and every claim under the current wording; Harbourline is raising it to £2,500 for policies incepting or renewing from 1 January 2027."
+ },
+ {
+  "q": "Is Harbourline changing the escape of water excess?",
+  "file": "2026-09-18 Harbourline - escape of water excess change.eml",
+  "evidence": "increase from £1,000 to £2,500",
+  "answer": "Yes. From 1 January 2027 it rises from £1,000 to £2,500 for new and renewing policies; policies incepting before then keep £1,000 until their next renewal."
+ },
+ {
+  "q": "What is the subsidence excess on the Harbourline property wording?",
+  "file": "Harbourline Commercial Property Policy Wording.pdf",
+  "evidence": "Subsidence, heave and landslip: £2,500",
+  "answer": "£2,500 for each and every claim."
+ },
+ {
+  "q": "What happens to the excess if a Harbourline-insured building is unoccupied?",
+  "file": "Harbourline Commercial Property Policy Wording.pdf",
+  "evidence": "the excess for any claim is doubled",
+  "answer": "The excess for any claim is doubled while the building is unoccupied."
+ },
+ {
+  "q": "How many days before a building counts as unoccupied under Harbourline?",
+  "file": "Harbourline Commercial Property Policy Wording.pdf",
+  "evidence": "more than 30 consecutive days",
+  "answer": "When it is not used for the business for more than 30 consecutive days."
+ },
+ {
+  "q": "How quickly must a claim be notified to Harbourline, and what if it is late?",
+  "file": "Harbourline Commercial Property Policy Wording.pdf",
+  "evidence": "within 14 days",
+  "answer": "Within 14 days; prompt notification is a condition precedent to Harbourline's liability, so late notice can mean the claim is declined."
+ },
+ {
+  "q": "What is the Harbourline claims phone number?",
+  "file": "Harbourline Commercial Property Policy Wording.pdf",
+  "evidence": "0300 555 0142",
+  "answer": "0300 555 0142 (or claims@harbourline.example)."
+ },
+ {
+  "q": "Does the Harbourline property policy cover ransomware?",
+  "file": "Harbourline Commercial Property Policy Wording.pdf",
+  "evidence": "ransomware",
+  "answer": "No, cyber events including ransomware are excluded unless the cyber extension is shown in the schedule."
+ },
+ {
+  "q": "What is the maximum business interruption indemnity period with Harbourline?",
+  "file": "Harbourline Commercial Property Policy Wording.pdf",
+  "evidence": "indemnity period of up to 24 months",
+  "answer": "Up to 24 months, and only if business interruption is shown in the schedule."
+ },
+ {
+  "q": "What fire suppression condition applies to restaurants under the Harbourline wording?",
+  "file": "Harbourline Commercial Property Policy Wording.pdf",
+  "evidence": "serviced at least every six months",
+  "answer": "Where there is deep-fat frying, an automatic fire suppression system must be fitted and serviced at least every six months; it is a condition precedent for fire claims."
+ },
+ {
+  "q": "Why did Harbourline refuse to quote Bramble Kitchen?",
+  "file": "2026-11-04 Harbourline - Bramble Kitchen suppression decline.eml",
+  "evidence": "last serviced in March 2026",
+  "answer": "The fryer suppression system was last serviced in March 2026, more than six months ago; they will quote at 0.28% if a recent service certificate is provided."
+ },
+ {
+  "q": "Do we place restaurants with deep-fat frying?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "only with Harbourline Insurance",
+  "answer": "For property, only with Harbourline and only with an automatic fire suppression system serviced every six months (the appetite sheet marks Harbourline as Refer); without suppression, decline. Northgate's appetite sheet shows Yes for this trade, which relates to its liability cover."
+ },
+ {
+  "q": "Which trades do we decline?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "waste and recycling, scrap metal, fireworks",
+  "answer": "Waste and recycling, scrap metal, fireworks, nightclubs, demolition, and any business with a prior arson claim in the last five years. Deep-fat frying risks without a serviced fire suppression system must also be declined."
+ },
+ {
+  "q": "Can I bind a renewal with a 12% premium increase without approval?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "up to 15% without approval",
+  "answer": "Yes, handlers may bind renewals with a premium change of up to 15% without approval."
+ },
+ {
+  "q": "Who must approve new business with a premium of £40,000?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "approved by an account director",
+  "answer": "An account director, before binding (new business above £25,000)."
+ },
+ {
+  "q": "When is a risk survey required before inception?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "sum insured above £2,000,000",
+  "answer": "For buildings with a sum insured above £2,000,000."
+ },
+ {
+  "q": "Which construction types must be referred to the insurer before quoting?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "Thatched roofs, timber-frame construction and EPS panels",
+  "answer": "Thatched roofs, timber-frame construction and EPS panels."
+ },
+ {
+  "q": "How long do clients have to report an incident to us?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "within 48 hours",
+  "answer": "Within 48 hours; we notify the insurer the same working day."
+ },
+ {
+  "q": "How early should we start the renewal process?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "60 days before expiry",
+  "answer": "60 days before expiry, with a renewal summary to the client at least 21 days before expiry."
+ },
+ {
+  "q": "What should I do if an insurer proposes a 12% rate increase at renewal?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "above 10%, obtain at least one alternative",
+  "answer": "Obtain at least one alternative quotation (required for increases above 10%)."
+ },
+ {
+  "q": "How quickly must a complaint be acknowledged?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "within 5 working days",
+  "answer": "Within 5 working days, logged the same day; final response within 8 weeks."
+ },
+ {
+  "q": "What is our target commission on fleet motor?",
+  "file": "Placement and Underwriting Guide.docx",
+  "evidence": "Fleet motor | 12.5% | 10%",
+  "answer": "Target 12.5%, minimum 10%."
+ },
+ {
+  "q": "What is the employers' liability limit with Northgate Mutual?",
+  "file": "Northgate Mutual Liability Policy Wording.pdf",
+  "evidence": "£10,000,000 for any one occurrence",
+  "answer": "£10,000,000 any one occurrence including costs, reduced to £5,000,000 for terrorism."
+ },
+ {
+  "q": "What public liability limit does Northgate offer, and can it be increased?",
+  "file": "Northgate Mutual Liability Policy Wording.pdf",
+  "evidence": "Higher limits of £10,000,000",
+  "answer": "£5,000,000 any one occurrence; £10,000,000 available by endorsement."
+ },
+ {
+  "q": "Is there an excess for bodily injury claims on the Northgate liability policy?",
+  "file": "Northgate Mutual Liability Policy Wording.pdf",
+  "evidence": "no excess for bodily injury",
+  "answer": "No; there is a £250 excess only for third-party property damage."
+ },
+ {
+  "q": "What are the heat work conditions in the Northgate wording?",
+  "file": "Northgate Mutual Liability Policy Wording.pdf",
+  "evidence": "inspect the area for 60 minutes",
+  "answer": "Keep an extinguisher at hand, remove combustibles within 10 metres, and inspect for 60 minutes after work; it is a condition precedent."
+ },
+ {
+  "q": "Does Northgate cover work at heights?",
+  "file": "Northgate Mutual Liability Policy Wording.pdf",
+  "evidence": "above 15 metres",
+  "answer": "Not above 15 metres unless agreed in writing."
+ },
+ {
+  "q": "What public liability limit must subcontractors hold under Northgate's conditions?",
+  "file": "Northgate Mutual Liability Policy Wording.pdf",
+  "evidence": "at least £2,000,000",
+  "answer": "At least £2,000,000."
+ },
+ {
+  "q": "What renewal terms did Northgate offer for Kestrel Logistics?",
+  "file": "2026-10-02 Northgate - Kestrel Logistics renewal terms.eml",
+  "evidence": "rate increase of 7.5%",
+  "answer": "A 7.5% increase on the EL wageroll rate (0.70% instead of 0.65%), PL as expiring, subject to manual handling training records by 15 November 2026; valid 30 days."
+ },
+ {
+  "q": "What condition is attached to the Kestrel Logistics renewal?",
+  "file": "2026-10-02 Northgate - Kestrel Logistics renewal terms.eml",
+  "evidence": "manual handling training record",
+  "answer": "A manual handling training record for all warehouse staff by 15 November 2026."
+ },
+ {
+  "q": "Who can drive under the Ashby & Vale fleet policy?",
+  "file": "Ashby & Vale Fleet Motor Policy Wording.pdf",
+  "evidence": "aged 25 to 75",
+  "answer": "Employed drivers aged 25 to 75 with a full UK licence held for at least 2 years; under-25s only with written approval."
+ },
+ {
+  "q": "What excess applies to a 22-year-old driver on the Ashby & Vale fleet?",
+  "file": "Ashby & Vale Fleet Motor Policy Wording.pdf",
+  "evidence": "Additional excess for drivers aged under 25: £750",
+  "answer": "The £350 accidental damage excess plus an additional £750 young driver excess."
+ },
+ {
+  "q": "Was Jamie Fenwick approved to drive, and which vehicles?",
+  "file": "2026-10-21 Ashby & Vale - young driver approval Fenwick Builders.eml",
+  "evidence": "Not approved for the tipper truck",
+  "answer": "Approved from 22 October 2026 for the Ford Transit FB21 KLM only, with the £750 young driver excess; not for the tipper truck."
+ },
+ {
+  "q": "Does the Ashby & Vale fleet policy cover goods in transit?",
+  "file": "Ashby & Vale Fleet Motor Policy Wording.pdf",
+  "evidence": "Goods in transit is not covered",
+  "answer": "No, goods in transit is not covered."
+ },
+ {
+  "q": "How long can vehicles be used in the EU under the Ashby & Vale policy?",
+  "file": "Ashby & Vale Fleet Motor Policy Wording.pdf",
+  "evidence": "up to 30 days per trip",
+  "answer": "Up to 30 days per trip."
+ },
+ {
+  "q": "When must telematics be fitted on a large HGV fleet with Ashby & Vale?",
+  "file": "Ashby & Vale Fleet Motor Policy Wording.pdf",
+  "evidence": "within 30 days of inception",
+  "answer": "Within 30 days of inception, for fleets of more than 10 HGVs."
+ },
+ {
+  "q": "What is Harbourline's base rate for retail shops?",
+  "file": "Insurer rates and appetite.xlsx",
+  "evidence": "Retail shops; Base rate: 0.12%",
+  "answer": "0.12% of sum insured, minimum premium £450."
+ },
+ {
+  "q": "What does Ashby & Vale charge per HGV, and what is the minimum premium?",
+  "file": "Insurer rates and appetite.xlsx",
+  "evidence": "£2,150 per vehicle",
+  "answer": "£2,150 per vehicle, minimum premium £10,000."
+ },
+ {
+  "q": "Which insurers will write construction risks?",
+  "file": "Insurer rates and appetite.xlsx",
+  "evidence": "Construction (no heights above 15m)",
+  "answer": "Northgate Mutual (yes); Ashby & Vale is a referral; Harbourline declines."
+ },
+ {
+  "q": "What is Northgate's employers' liability rate for professional offices?",
+  "file": "Insurer rates and appetite.xlsx",
+  "evidence": "0.08% of wageroll",
+  "answer": "0.08% of wageroll, minimum premium £250."
+ },
+ {
+  "q": "What premium did we charge Fenwick Builders last year?",
+  "file": null,
+  "evidence": null,
+  "answer": "UNANSWERABLE"
+ },
+ {
+  "q": "What is the cyber insurance premium for Kestrel Logistics?",
+  "file": null,
+  "evidence": null,
+  "answer": "UNANSWERABLE"
+ },
+ {
+  "q": "Which insurer covers marine cargo?",
+  "file": null,
+  "evidence": null,
+  "answer": "UNANSWERABLE"
+ },
+ {
+  "q": "What is our professional indemnity rate for architects?",
+  "file": null,
+  "evidence": null,
+  "answer": "UNANSWERABLE"
+ },
+ {
+  "q": "Who is the account director for Bramble Kitchen?",
+  "file": null,
+  "evidence": null,
+  "answer": "UNANSWERABLE"
+ },
+ {
+  "q": "What was Harbourline's loss ratio last year?",
+  "file": null,
+  "evidence": null,
+  "answer": "UNANSWERABLE"
+ }
+]

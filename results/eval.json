@@ -1,0 +1,31 @@
+{
+  "k": 6,
+  "questions": 46,
+  "answerable": 40,
+  "passages": 29,
+  "embed_model": "gemini-embedding-2",
+  "retrieval": {
+    "keyword": {
+      "recall": 0.975,
+      "mrr": 0.9145833333333334
+    },
+    "embedding": {
+      "recall": 1.0,
+      "mrr": 0.9541666666666666
+    },
+    "hybrid": {
+      "recall": 1.0,
+      "mrr": 0.9875
+    }
+  },
+  "answers": {
+    "model": "claude-haiku-5-5",
+    "accuracy": 0.95,
+    "cites_right_file": 1.0,
+    "refusal_accuracy": 1.0,
+    "false_refusals": 0,
+    "avg_ms": 3038.6739130434785,
+    "input_tokens": 95052,
+    "output_tokens": 27504
+  }
+}

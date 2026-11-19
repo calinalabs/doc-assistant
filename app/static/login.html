@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sign in · Document assistant</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="login">
+<main class="card">
+  <h1>Document assistant</h1>
+  <p class="muted">Answers from your firm's documents, with a source for every answer.</p>
+  <form method="post" action="/login">
+    <label>Work email <input name="email" type="email" required autocomplete="username"></label>
+    <label>Password <input name="password" type="password" required autocomplete="current-password"></label>
+    <p id="err" class="error" hidden>Email or password not recognised.</p>
+    <button type="submit">Sign in</button>
+  </form>
+  <p class="muted small">Demo sign-in. A live deployment uses your Google Workspace or Microsoft 365 account.</p>
+</main>
+<script>if (location.search.includes("error")) document.getElementById("err").hidden = false;</script>
+</body>
+</html>

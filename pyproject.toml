@@ -1,0 +1,30 @@
+[project]
+name = "calinalabs-doc-assistant"
+version = "0.1.0"
+description = "Private document assistant: answers staff questions from a document folder, with a source for every answer."
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.110",
+    "uvicorn>=0.29",
+    "itsdangerous>=2.1",
+    "pypdf>=4.0",
+    "python-docx>=1.1",
+    "openpyxl>=3.1",
+    "extract-msg>=0.48",
+    "fpdf2>=2.7",
+    "numpy>=1.26",
+    "python-multipart>=0.0.9",
+]
+
+[project.optional-dependencies]
+drive = ["google-api-python-client>=2.100", "google-auth>=2.25"]
+
+[dependency-groups]
+dev = ["pytest>=8", "httpx>=0.27"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
